@@ -14,6 +14,8 @@ class Solution:
         Example:
             Input: ["abba", "baba", "bbaa", "cd", "cd"]
             Output: ["abba", "cd"]
+
+        My Leetcode Solution Approach: https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/solutions/7271599/simple-approach-remove-anagrams-in-an-ar-r2py/
         """
         
         result: List[str] = []   # Final list to store non-anagram words
